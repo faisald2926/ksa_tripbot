@@ -1,5 +1,5 @@
 
-# 🚗 halqa_trip_organizerbot
+# 🚗 ksa_tripbot
 
 A sophisticated logistics bot designed to optimize group transportation in Riyadh. It utilizes the **Vehicle Routing Problem (VRP)** algorithm via Google OR-Tools to assign passengers to drivers based on real-time proximity, traffic constraints, and vehicle capacity.
 
